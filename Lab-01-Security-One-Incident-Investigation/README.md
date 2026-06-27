@@ -30,7 +30,7 @@ O Dashboard apresenta uma visão geral do ambiente, incluindo indicadores de ris
 
 **Figura 1 – Dashboard da plataforma**
 
-![Dashboard](images/01-dashboard-home.png)
+![Dashboard](images/01-dashboard-home.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ Foi realizada a pesquisa pelo incidente **#12882**, identificado com severidade 
 
 **Figura 2 – Pesquisa do incidente**
 
-![Pesquisa](images/02-incident-search.png)
+![Pesquisa](images/02-incident-search.jpg)
 
 ---
 
